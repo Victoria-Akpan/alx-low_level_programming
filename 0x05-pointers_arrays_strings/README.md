@@ -1,1 +1,1 @@
-pointer, arrays amd strings
+Pointers, arrays and Strings
