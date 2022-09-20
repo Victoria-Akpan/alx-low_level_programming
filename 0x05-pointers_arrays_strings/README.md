@@ -1,0 +1,1 @@
+pointer, arrays amd strings
