@@ -1,1 +1,1 @@
-06 Pointers, arrays and strings
+06 pointers
