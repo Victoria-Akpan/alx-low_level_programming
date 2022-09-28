@@ -1,1 +1,1 @@
-7 strings
+7 PAS
