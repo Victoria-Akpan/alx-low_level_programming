@@ -1,1 +1,1 @@
-Sruct
+Struct
