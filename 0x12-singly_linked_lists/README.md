@@ -1,1 +1,1 @@
-SLL
+singly linked list
